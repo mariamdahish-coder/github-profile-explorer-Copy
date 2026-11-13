@@ -123,6 +123,13 @@ The API retrieves:
 
 No additional API key is required for basic public GitHub API access.
 
+## Live Demo
+
+**Try the application:** https://github-profile-explorer-copy.vercel.app/
+
+**Source Code:** https://github.com/mariamdahish-coder/github-profile-explorer-Copy
+
+
 ## Future Improvements
 
 - AI-powered repository summaries.
